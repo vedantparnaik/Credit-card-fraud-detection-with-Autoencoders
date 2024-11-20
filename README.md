@@ -38,7 +38,7 @@ The features in this dataset are numerical and represent transformations or resu
     - Precision
     - Recall
     - F1-score
-  - Emphasize metrics that address class imbalance, crucial for fraud detection.
+  - Emphasize metrics that address class imbalance, which are crucial for fraud detection.
 
 ## Requirements
 
